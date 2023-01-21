@@ -1,0 +1,3 @@
+﻿  Chapter3.cpp
+C:\Users\Talish Kumar\Documents\Personal\artificial_intelligence\open_cv_course\open_cv_course\Chapter3.cpp(10,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  open_cv_course.vcxproj -> C:\Users\Talish Kumar\Documents\Personal\artificial_intelligence\open_cv_course\x64\Debug\open_cv_course.exe
