@@ -18,7 +18,7 @@ using namespace std;
 //	
 //
 //	cvtColor(img, imgGray, COLOR_BGR2GRAY);
-//	GaussianBlur(img, imgBlur, Size(7, 7), 5, 0);
+//	GaussianBlur(imgGray, imgBlur, Size(7, 7), 5, 0);
 //	Canny(imgBlur, imgCanny, 25, 75);
 //
 //	Mat kernel = getStructuringElement(MORPH_RECT, Size(5, 5));
